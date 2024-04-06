@@ -4,8 +4,10 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+##CGPA Generator
+
+A CGPA (Cumulative Grade Point Average) generator is a software tool designed to calculate a student's overall academic performance based on their grades in various subject over a semister. The generator takes the grades received in each course along with the credits associated with each course to comput the cumulative GPA. A CGPA generator simplifies the process of determining a student's academic standing and helps in evaluating progress throughout their academic career. 
+
 ## Team members
 1. [Anika Sarah Sabu](https://github.com/Aneka-zera)
 2. [Jeslia Jobi](https://github.com/Jeslia-Jobi)
