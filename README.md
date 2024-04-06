@@ -21,16 +21,21 @@ A CGPA (Cumulative Grade Point Average) generator is a software tool designed to
 ## Libraries used
 
 1.Django 5.0.4
+
 2.Python 3.11.9
+
 3.HTML
 
 ## How to configure
 
 instalation : 
-pip3 install django
+
+$ pip3 install django
 
 create a project : 
+
 $ django-admin startproject core
+
 $ cd core
 
 Working on virtual environment.
